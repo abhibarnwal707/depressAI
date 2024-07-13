@@ -14,7 +14,7 @@ This directory contains the implementation for using pre-trained models for depr
 
 ## Files
 
-- `usage_pretrained_models.ipynb`: Notebook for using the pre-trained models.
+- `Shap_analysis_and_results.ipynb`: Notebook for using the pre-trained models.
 
 ## Impact
 
